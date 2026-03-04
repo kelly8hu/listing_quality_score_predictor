@@ -1,7 +1,6 @@
-# CoStar Data Science Internship Take Home Assignment
-CoStar Take Home Assignment
+# Listing Quality Score Assessment Project
 
-This is an interactive dashboard to demonstrate my vision for my project proposal. This project proposal is aimed at creating a systematic way to genearte Listing Quality Scores for listings on the BizBuySell.com website to optimize sort order of listings and increase number of leads on listings. 
+This is an interactive dashboard to demonstrate my vision for my project proposal. This project proposal is aimed at creating a systematic way to generate Listing Quality Scores for listings on the BizBuySell.com website to optimize sort order of listings and increase number of leads on listings. 
 
 The dashboard allows you to 
 - Filter by category
